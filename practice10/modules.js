@@ -119,3 +119,5 @@ function checkCashRegister(price, cash, cid) {
     output.change = change_arr;
     return output;
 }
+
+// finally freecodecamp done
